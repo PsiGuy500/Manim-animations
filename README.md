@@ -1,2 +1,2 @@
 # Manim-animations
-This repository will contain rudimentary animations covering a broad field of math and physics.
+This repository will contain rudimentary animations covering a range of topics from math and physics.
